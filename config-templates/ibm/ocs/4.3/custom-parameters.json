@@ -19,7 +19,7 @@
     "description": "Enter the MON device path. Mandatory",
     "displayname": "File Device Path",
     "name": "file-devicepath ",
-    "default": "/dev/dm-01",
+    "default": "",
     "required": "false",
     "category": "config",
     "type": "csv"
